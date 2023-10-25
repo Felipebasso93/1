@@ -1,0 +1,11 @@
+Usuario repositor de estoque
+senha repositor de estoque
+cadastro material na entrada de mercadoria (codigo de barra ou nome produto)
+realizar uma movimentação de material do estoque para gondola
+destinar uma quantia "x" para saldo inicial na gondola
+definir uma limite para estoque baixo na gondola
+assim que o cliente passar as comprar no caixa e efetivar o pagamento dar baixa no estoque principal.
+assim que o cliente passar as comprar no caixa e efetivar o pagamento realizar
+o repositor recebe um alerta que "x" quantia foram efetivadas da gondola a venda em tempo real para fazer a reposição.
+gestor pode emitir relatórios de de movimentações entrada/estoque/gondola/caixa(vendas) com historicos de valores e quantidade e validade
+repositor pode emitir relatorio de quanto foi abastecido/abstinencia de produtos
