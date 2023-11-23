@@ -1,0 +1,44 @@
+APP escala
+
+
+    CLASSE avião
+
+
+                    ATRIBUTO
+                    <>empresa
+                    <>localidade
+                    <>hora
+                    <>data
+
+                                    SUB CLASSE
+                                    piloto
+                                    co piloto
+                                    reserva piloto
+                                    reserva co piloto
+
+                                                            MÉTODO
+                                                            function agendamento(){
+                                                            -data
+                                                            -hora
+                                                        
+                                                        }
+                                                                                    ATRIBUTO SUB CLASSE
+                                                                                    localidade
+                                                                                    empresa
+
+                                                                                                        MÉTODO ESPECIFICO PARA SUBCLASSE
+                                                                                                        function disponibilidade
+                                                                                                        -localidade
+                                                                                                        -empresa
+
+Explicação:
+Abstração: É a capacidade de modelar objetos do mundo real como abstrações em software, foi atribuido a avião.
+Polimorfismo: Permite que objetos de diferentes classes sejam tratados de maneira uniforme,metodo function agendamento.
+Herança: Permite que uma classe herde características de outra,classe e subclasse.
+Encapsulamento: É o conceito de agrupar dados (atributos) e os métodos que operam nesses dados em uma única unidade. atribuido a método function agendamento.
+
+
+
+
+
+
